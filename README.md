@@ -45,4 +45,4 @@ Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the pro
 
 ## License
 
-[LICENSE.md](LICENSE.md)
+[LICENSE.md](LICENSE)
