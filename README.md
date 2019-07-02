@@ -1,37 +1,101 @@
-# Contributing to hit-1170801317
+# hit-1170300132
 2
 
 3
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+hit-1170300132 is a HIT Open Source Sofeware assessment.
 4
 
 5
-When contributing to this repository, please first discuss the change you wish to make via issue,
+[![NPM Version][npm-image]][npm-url]
 6
-email, or any other method with the owners of this repository before making a change. 
+[![Build Status][travis-image]][travis-url]
 7
-
+[![Downloads Stats][npm-downloads]][npm-url]
 8
-Please note we have a code of conduct, please follow it in all your interactions with the project.
-9
 
+9
+## Getting Started
 10
-## Pull Request Process
+
 11
 
 12
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
+### Prerequisites
 13
-   build.
+
 14
-2. Update the README.md with details of changes to the interface, this includes new environment 
+```
 15
-   variables, exposed ports, useful file locations and container parameters.
+Give examples
 16
-3. Increase the version numbers in any examples files and the README.md to the new version that this
+```
 17
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
+
 18
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
+### Installation
 19
-   do not have permission to do that, you may request the second reviewer to merge it for you.
+
+20
+OS X & Linux:
+21
+
+22
+```sh
+23
+Give the example
+24
+```
+25
+
+26
+Windows:
+27
+
+28
+```sh
+29
+Give the example
+30
+```
+31
+
+32
+### Usage example
+33
+
+34
+
+35
+## Deployment
+36
+
+37
+
+38
+## Contributing
+39
+
+40
+Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the process for submitting pull requests to us.
+41
+
+42
+## Release History 
+43
+
+44
+
+45
+## Authors
+46
+
+47
+* **ZhangWeizhi** - *Initial work* 
+48
+
+49
+## License
+50
+
+51
+[LICENSE.md](LICENSE.md)
